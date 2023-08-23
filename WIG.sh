@@ -1,6 +1,6 @@
 C #!/bin/bash
 # WiKill-ig v1.0
-# recoded by: Willdu27 (Tunnelt1)
+# recoded by: W-MOB (Tunnelt1)
 # github.com/Wharkly47/WIG-bot
 # If you use any part from this code, give me the credits, please, read the License
 
